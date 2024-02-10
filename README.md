@@ -1,12 +1,12 @@
  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jithender Solanki
 =========================================================================================================================================
 
-Java Coder Blockchain Enthusiast
+Java Coder CyberSecurity Enthusiast
 --------------------------------
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [jithendersolanki16@gmail.com](mailto:jithendersolanki16@gmail.com )
-* 🧠  I'm learning Java Full Stack .
+* 🧠  I'm learning Java Full Stack and React.
 * 🤝  I'm open to collaborating on Web Projects , Blockchain Projects.
 
 ### Skills
