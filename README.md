@@ -1,13 +1,13 @@
  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jithender Solanki
 =========================================================================================================================================
 
-Java Coder Web Enthusiast
+Java Backend Developer | Spring Boot | Spring Security | PostgreSQL | REST APIs | JDBS| Hibernate
 --------------------------------
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [jithendersolanki16@gmail.com](mailto:jithendersolanki16@gmail.com )
-* 🧠  I'm learning Java Full Stack and React.
-* 🤝  I'm open to collaborating on Web Projects , Blockchain Projects.
+* 🧠  Passionate Java developer with experience in building backend applications using Spring Boot, Spring Security, Hibernate, and PostgreSQL.
+* 🤝  I'm open to collaborating on Java Projects
 
 ### Skills
 
